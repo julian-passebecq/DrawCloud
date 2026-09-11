@@ -1,5 +1,7 @@
 # DrawCloud
 
+**Pro AI takeover:** start with [handover/README.md](handover/README.md) for actual progress, unresolved defects, test evidence and remaining product outcomes.
+
 Draw.io-first cloud architecture workbench.
 
 ## Product boundary

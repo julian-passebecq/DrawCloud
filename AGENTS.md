@@ -1,3 +1,5 @@
+> Current user direction (2026-09-11): the multi-model role/handoff process below is retired for this takeover. Read [Pro handover](handover/README.md) first. One Pro AI owns subsequent reasoning, implementation and verification; no automatic agent dispatch or repeated role gates. Historical acceptance criteria and preservation rules remain useful.
+
 # DrawCloud agent instructions
 
 Read `projectmanagement/README.md` and `projectmanagement/STATUS.md` before starting work. Follow the active sprint and the instructions for your assigned role in `projectmanagement/WORKFLOW.md`.

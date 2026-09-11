@@ -1,3 +1,5 @@
+> Current user direction (2026-09-11): the multi-model role/handoff process below is retired for this takeover. Read [Pro handover](../handover/README.md) first. One Pro AI owns subsequent reasoning, implementation and verification; no automatic agent dispatch or repeated role gates. Historical acceptance criteria and preservation rules remain useful.
+
 # DrawCloud project management
 
 This folder is the shared operating record for the tech lead, medium developer and light QA/project coordinator. Start with [STATUS.md](STATUS.md). The user should normally need one instruction for development, one for independent QA and one for the lead review per sprint, with additional handoffs only when defects or decisions require them.

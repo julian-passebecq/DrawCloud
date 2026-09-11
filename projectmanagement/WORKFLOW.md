@@ -1,3 +1,5 @@
+> Current user direction (2026-09-11): the multi-model role/handoff process below is retired for this takeover. Read [Pro handover](../handover/README.md) first. One Pro AI owns subsequent reasoning, implementation and verification; no automatic agent dispatch or repeated role gates. Historical acceptance criteria and preservation rules remain useful.
+
 # Roles, autonomous work and handoffs
 
 ## Responsibilities

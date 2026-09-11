@@ -1,3 +1,7 @@
+# Current ledger update — 2026-09-11
+
+See [verified handover inventory](../handover/GIT-AND-EVIDENCE.md). Main and detached test worktree remain at `409d82415f17cfe899267bd981c317067a798d59`. New branch `codex/pro-ai-handover-2026-09-11` preserves all discovered uncommitted planning and the takeover packet. No separate developer branch or stash was found. No merge/deployment/PR was performed. The historical ledger below describes September 8, not the current push state.
+
 # Branch, worktree and test ledger
 
 Last observed: 2026-09-08 by tech lead, using local Git metadata only. No remote fetch or live PR inventory was performed. Remote tracking refs may be stale.
