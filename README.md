@@ -15,6 +15,10 @@ DrawCloud does **not** implement another diagram engine. Draw.io owns visual edi
 
 No backend, database, API key or MCP server is required.
 
+## Development coordination
+
+Architecture, sprint scope, implementation instructions, independent QA and technical review live in [projectmanagement/README.md](projectmanagement/README.md). Agents start with [AGENTS.md](AGENTS.md) and [the current status](projectmanagement/STATUS.md). The management documents distinguish the current prototype from planned behavior.
+
 ## Canonical format
 
 Native uncompressed `.drawio` XML is the source of truth. This keeps diagrams editable in diagrams.net and makes Git diffs readable.
